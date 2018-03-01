@@ -1,0 +1,9 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "angular course",
+  "main": "index.js",
+  "author": "Munis",
+  "license": "MIT",
+  "private": true
+}
